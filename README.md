@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github.com/blue-gitty/blue-gitty/blob/main/github-snake-dark.svg
+![image](https://github.com/blue-gitty/blue-gitty/blob/main/github-snake-dark.svg)
 
